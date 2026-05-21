@@ -18,7 +18,7 @@ This repository features both an exploratory notebook and a production-ready mod
 Ensure you have an NVIDIA GPU and CUDA installed.
 
 ```bash
-git clone [https://github.com/pineapple-bits/phase-field-simulator.git](https://github.com/your-username/phase-field-simulator.git)
+git clone [https://github.com/pineapple-bits/phase-field-simulator.git](https://github.com/pineapple-bits/phase-field-simulator.git)
 cd phase-field-simulator
 pip install -r requirements.txt
 
